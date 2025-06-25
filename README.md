@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white), ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white), Linux, Docker, Python, Ansible**
 
-- 💬 How to reach me **[TextMe](Wa.me/+94703798713)**
+- 💬 How to reach me **[TextMe](mailto:kaveeshaarchana2003@gmail.com)**
 
 - ⚡ Fun fact *Call me as* **Jerry**
 
