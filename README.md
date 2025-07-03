@@ -105,6 +105,10 @@
 
 ###
 # 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaveesha06&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
 ![](https://github-readme-stats.vercel.app/api?username=Kaveesha06&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true) 
 ![](https://nirzak-streak-stats.vercel.app/?user=Kaveesha06&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaveesha06&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -114,9 +118,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=Kaveesha06&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaveesha06&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kaveesha06&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
@@ -127,7 +129,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <br/>
-###
+
 
 
 
