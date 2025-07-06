@@ -1,9 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kaveesha06&label=Profile%20views&color=0e75b6&style=flat" alt="matheesha01" /> </p>
 
-
-
-
-
 <h1 align="center">Hi 👋, I'm Kaveesha Archana 👨🏻‍💻</h1>
 <h2 align="center">👨🏻‍🎓 Undergraduate Software Engineer👨🏻‍💼 </h2>
 
@@ -36,6 +32,8 @@
 ### 💻 Tech Stack:
 
 <p align="left">
+  <div>
+  
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
@@ -101,7 +99,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
   <img width="12" />   
-
+</div>
 </p>
 <br/>
 
