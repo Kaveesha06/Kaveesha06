@@ -36,7 +36,7 @@
 
 -  💬 Ask me about **OOP , Java**
 
-- 🌱 I’m currently learning **AWS, K8s, Linux, Docker, Ansible**
+- 🌱 I’m currently learning **AWS, K8s, Ansible**
 
 - 📬 How to reach me **[TextMe](mailto:kaveeshaarchana2003@gmail.com)**
 
