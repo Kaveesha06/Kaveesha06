@@ -29,8 +29,7 @@
 <hr>
 
 ### 👻🧠My Current Status 
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Kaveesha06&label=Profile%20views&color=0e75b6&style=flat" alt="Kaveesha06" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kaveesha06&label=Profile%20views&color=0e75b6&style=flat" alt="Kaveesha06" /> </p>
   <img align="right" src="https://roadmap.sh/card/wide/67fbcf1daf6849cc45459b20?variant=dark" alt="roadmap.sh card" />
 
 - 🔭 I’m currently working on **[ProjectMiyasi](https://github.com/Kaveesha06/ProjectMiyasi)**
@@ -55,7 +54,6 @@
 <a href="https://stackoverflow.com/users/kaveeshaarchana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveeshaarchana" height="30" width="40" /></a>
 
 </p>
-
 <br/>
 
 
