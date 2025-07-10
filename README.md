@@ -165,11 +165,30 @@
 ### ✍️ Daily Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<br/>
+<h1>Basic Git Commands</h1>
+<pre>
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Kaveesha06/Kaveesha06.github.io.git
+git push -u origin main
+</pre>
 
+<pre>
+ git branch newBranchName 
+ git checkout newBranchName
+ git checkout master
+</pre>
 
+<pre>
+ to delete git repository
+ $ rm -fr .git
+</pre>
 
-
-
+<pre>
+To delete a git-ignored file from the current files in the updated remote repository.
+git rm -r --cached file or FolderName
+</pre
 
 
