@@ -9,7 +9,7 @@
   <!-- Left Side: Text Block -->
   <div style="flex: 1;">
     <h2>🌐 <strong>What is DevOps?</strong></h2>
-    <img align="right" src="https://149728326.v2.pressablecdn.com/wp-content/uploads/unnamed.gif" width="340" alt="DevOps Animation">
+    <img align="right" src="https://149728326.v2.pressablecdn.com/wp-content/uploads/unnamed.gif" width="335" alt="DevOps Animation">
 
   <p><strong>DevOps</strong> is a combination of two words: <strong>Development (Dev)</strong> and <strong>Operations (Ops)</strong>.
     It is a <strong>culture, mindset, and set of practices</strong> that brings <strong>software developers</strong> and <strong>IT operations</strong> teams <strong>together</strong> to build, test, and release software <strong>faster, more reliably, and with better quality</strong>.
