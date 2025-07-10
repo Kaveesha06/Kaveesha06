@@ -1,12 +1,40 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kaveesha06&label=Profile%20views&color=0e75b6&style=flat" alt="Kaveesha06" /> </p>
+
 ![banner-bg](https://user-images.githubusercontent.com/109952575/208571815-e747c4d7-9f88-4486-a1f4-fe7e5d764bcd.gif)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kaveesha06&label=Profile%20views&color=0e75b6&style=flat" alt="matheesha01" /> </p>
-
 <h1 align="center">Hi 👋, I'm Kaveesha Archana 👨🏻‍💻</h1>
-<h2 align="center">👨🏻‍🎓 Undergraduate Software Engineer👨🏻‍💼 </h2>
+<h3 align="center">👨🏻‍🎓 Undergraduate Software Engineer👨🏻‍💼 </h3>
 
-# 💫 About Me:
+<hr> <hr>
+  
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+  <!-- Left Side: Text Block -->
+  <div style="flex: 1;">
+    <h2>🌐 <strong>What is DevOps?</strong></h2>
+    <img align="right" src="https://149728326.v2.pressablecdn.com/wp-content/uploads/unnamed.gif" width="350" alt="DevOps Animation">
+
+  <p><strong>DevOps</strong> is a combination of two words: <strong>Development (Dev)</strong> and <strong>Operations (Ops)</strong>.
+    It is a <strong>culture, mindset, and set of practices</strong> that brings <strong>software developers</strong> and <strong>IT operations</strong> teams <strong>together</strong> to build, test, and release software <strong>faster, more reliably, and with better quality</strong>.
+  </p>
+   
+  <p><strong>DevOps solves:</strong></p>
+    <ul>
+      <li>📡 <strong>Collaboration</strong> between teams</li>
+      <li>⚙️ <strong>Automation</strong> of manual tasks</li>
+      <li>📦 <strong>Continuous Integration & Continuous Delivery (CI/CD)</strong></li>
+      <li>📈 <strong>Faster and more frequent updates</strong></li>
+    </ul>
+  </div>
+
+</div>
+
+
+<hr>
+
+
+
+### 💫 About Me:
 
 - 🔭 I’m currently working on **[ProjectMiyasi](https://github.com/Kaveesha06/ProjectMiyasi)**
 
