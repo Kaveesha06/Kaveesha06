@@ -50,7 +50,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/kaveesha-archana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaveesha archana" height="30" width="40" /></a>
-<!-- <a href="https://fb.com/KaveeSha Archana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="KaveeSha Archana" height="30" width="40" /></a> -->
+<a href="https://fb.com/KaveeSha Archana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="KaveeSha Archana" height="30" width="40" /></a>
 <!-- <a href="https://instagram.com/kaveeshaArchana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaveeshaarchana" height="30" width="40" /></a> -->
 <!-- <a href="https://youtube.com/@kaveesh3841k?si=qb4JfXeKKeTZ5Nqf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Kaveesha Archana" height="30" width="40" /></a> -->
 <!-- <a href="https://stackoverflow.com/users/kaveeshaarchana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveeshaarchana" height="30" width="40" /></a> -->
