@@ -34,11 +34,11 @@
 
   <img align="right" src="https://roadmap.sh/card/wide/67fbcf1daf6849cc45459b20?variant=dark" alt="roadmap.sh card" />
 
-- 🔭 I’m currently working on **[ProjectMiyasi](https://github.com/Kaveesha06/ProjectMiyasi)**
+- 🔭 I’m currently working as a <!--**[ProjectMiyasi](https://github.com/Kaveesha06/ProjectMiyasi)**--> **Freelancing Software Developer**
 
 -  💬 Ask me about **OOP , Java**
 
-- 🌱 I’m currently learning **AWS, K8s, Ansible**
+- 🌱 I’m currently learning **AWS, K8s, GO, Linux, Docker**
 
 - 📬 How to reach me **[TextMe](mailto:kaveeshaarchana2003@gmail.com)**
 
@@ -50,7 +50,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/kaveesha-archana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaveesha archana" height="30" width="40" /></a>
-<a href="https://fb.com/KaveeSha Archana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="KaveeSha Archana" height="30" width="40" /></a>
+<a href="https://facebook.com/kaveesha.archana.2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="KaveeSha Archana" height="30" width="40" /></a>
 <!-- <a href="https://instagram.com/kaveeshaArchana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaveeshaarchana" height="30" width="40" /></a> -->
 <a href="https://youtube.com/@KaveeshaArchana?si=qb4JfXeKKeTZ5Nqf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Kaveesha Archana" height="30" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/kaveeshaarchana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveeshaarchana" height="30" width="40" /></a> -->
@@ -68,8 +68,8 @@
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="40"/> 
-  <img width="12" />
+  <!--<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="40"/> 
+  <img width="12" />-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
@@ -98,7 +98,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+ <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  /> -->
 <!--   <img width="12" /> -->
@@ -112,7 +112,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+<!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 <img width="12" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  /> -->
 <!--   <img width="12" /> -->
